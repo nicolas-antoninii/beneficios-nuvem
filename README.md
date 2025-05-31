@@ -5,7 +5,7 @@ A computação em nuvem (cloud computing) é um modelo de entrega de serviços d
 Acesso sob demanda a recursos computacionais
 
 Pagamentos conforme o uso
-
+ 
 Eliminação de infraestrutura física local
 
 Flexibilidade e escalabilidade para lidar com demandas variáveis
